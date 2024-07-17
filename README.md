@@ -1,1 +1,3 @@
-# tech-blog-go-1.23-feature
+# Tech Blog Go 1.23 Feature
+
+This repository contains sample code from the tech blog ["Go 1.23 release serials - slices & maps"]().

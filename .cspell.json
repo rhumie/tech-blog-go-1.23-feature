@@ -3,7 +3,7 @@
   "ignorePaths": [],
   "dictionaryDefinitions": [],
   "dictionaries": [],
-  "words": ["esbenp", "golangci"],
+  "words": ["canonicalize", "esbenp", "golangci"],
   "ignoreWords": [],
   "import": []
 }
